@@ -1,2 +1,2 @@
 # demo_java
-This is a power bi end to end project
+This is a Only for Java Project
